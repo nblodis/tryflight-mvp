@@ -1,0 +1,10 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Local TryFlight analytics data
+data/tryflight_analytics.db
+data/tryflight_analytics.db-shm
+data/tryflight_analytics.db-wal

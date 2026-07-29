@@ -1,0 +1,11 @@
+product_id,brand,product_name,flavor_tags,texture_tags,familiarity,adventurousness,intensity,estimated_cost,available,label_verified,allergens,story
+demo_001,TryFlight Demo,Midnight Crunch,Chocolate|Caramel,Crunchy|Crispy,5,2,2,1.25,TRUE,FALSE,,A familiar chocolate-caramel opener with contrasting crunch.
+demo_002,TryFlight Demo,Vanilla Cloud,Vanilla|Sweet,Creamy|Soft,5,1,1,0.85,TRUE,FALSE,,A gentle and familiar starting point for the flight.
+demo_003,TryFlight Demo,Berry Shock,Fruit|Berry|Sour,Gummy|Chewy,3,4,4,1.10,TRUE,FALSE,,A bright berry profile with a noticeable sour finish.
+demo_004,TryFlight Demo,Citrus Spark,Citrus|Sour,Hard candy,3,3,3,0.95,TRUE,FALSE,,A clean citrus contrast designed to reset expectations.
+demo_005,TryFlight Demo,Nutty Meteor,Peanut or nutty|Chocolate|Salty,Crunchy|Filled,4,3,3,1.50,TRUE,FALSE,,A sweet-salty combination with a filled center.
+demo_006,TryFlight Demo,Espresso Snap,Coffee|Chocolate,Crunchy|Crispy,2,4,4,1.40,TRUE,FALSE,,A darker coffee-forward option for adventurous tasters.
+demo_007,TryFlight Demo,Cinnamon Comet,Cinnamon|Spicy|Sweet,Chewy,3,4,4,1.30,TRUE,FALSE,,A warming cinnamon experience with a mild spicy edge.
+demo_008,TryFlight Demo,Mint Eclipse,Mint|Chocolate,Hard candy|Filled,4,3,3,1.20,TRUE,FALSE,,A cooling mint-and-chocolate contrast.
+demo_009,TryFlight Demo,Tropical Fire,Fruit|Spicy|Sweet,Gummy|Chewy,1,5,5,1.75,TRUE,FALSE,,An intentionally unusual sweet-and-spicy wildcard.
+demo_010,TryFlight Demo,Salted Caramel Drift,Caramel|Salty|Sweet,Chewy|Filled,5,2,2,1.60,TRUE,FALSE,,A familiar caramel profile with a salty finish.
